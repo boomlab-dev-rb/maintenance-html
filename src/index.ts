@@ -1,8 +1,6 @@
 export default {
   async fetch(request) {
     // --- IP allowlist: exact matches (IPv4 en IPv6) ---
-    // Opmerking: de eerste regel uit je bericht bevatte twee IPv4's achter elkaar.
-    // Hier gesplitst in twee aparte items.
     const ALLOWLIST = new Set([
       "185.3.176.130",
       "84.30.217.127",
