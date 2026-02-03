@@ -5,6 +5,7 @@ export default {
     // Hier gesplitst in twee aparte items.
     const ALLOWLIST = new Set([
       "185.3.176.130",
+      "84.30.217.127",
       "213.126.208.100",
       "2001:1c01:400e:3a01::17",
       "83.81.181.5",
