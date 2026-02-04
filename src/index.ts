@@ -46,7 +46,7 @@ export default {
     </style>
 </head>
 <body>
-    <div class="top-bar"><img src="https://www.boomlab.nl/media/bb/dc/0e/1768998609/Boom_Logo_Wit.png" alt="Logo" class="logo"></div>
+    <div class="top-bar"><img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/7dc9f236-26ac-40bc-8394-c6c9eea7dd00/public" alt="Logo" class="logo"></div>
     <div class="content">
         <h1>We werken aan een betere webshop</h1>
         <p>Onze website is tijdelijk niet bereikbaar vanwege gepland onderhoud. We zijn zo snel mogelijk weer online.
@@ -54,7 +54,7 @@ Vragen of een bestelling plaatsen?</p>
         <a href="mailto:customer-service@boomlab.nl" class="btn">Neem contact met ons op</a>
     </div>
     <footer>
-        <img src="https://www.boomlab.nl/bundles/boomlabtheme/footer.svg?1746546056127896" alt="Footer">
+        <img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/85010862-40ac-4d3d-b555-83c6ca447600/public" alt="Footer">
     </footer>
 </body>
 </html>`;
