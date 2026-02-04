@@ -13,7 +13,9 @@ export default {
       "2a02:a44d:3470:0:948d:c4f:ddb6:febf",
       "83.81.181.5",
       "77.164.16.73",
-      "62.45.96.236"
+      "62.45.96.236",
+      "83.219.83.64/27",
+      "83.143.189.64/26"
     ]);
 
     // Pak het 'echte' client-IP zoals door Cloudflare aangeleverd
