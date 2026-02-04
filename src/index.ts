@@ -50,7 +50,7 @@ export default {
     <div class="top-bar"><img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/7dc9f236-26ac-40bc-8394-c6c9eea7dd00/public" alt="Logo" class="logo"></div>
     <div class="content">
         <h1>We werken aan een betere webshop</h1>
-        <p>Onze website is tijdelijk niet bereikbaar vanwege gepland onderhoud. We zijn zo snel mogelijk weer online.
+        <p>Onze website is tijdelijk niet bereikbaar vanwege gepland onderhoud. We verwachten in de loop van de middag weer online te zijn.
 Vragen of een bestelling plaatsen?</p>
         <a href="mailto:customer-service@boomlab.nl" class="btn">Neem contact met ons op</a>
     </div>
