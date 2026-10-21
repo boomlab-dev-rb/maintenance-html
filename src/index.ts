@@ -53,7 +53,7 @@ export default {
     </style>
 </head>
 <body>
-    <div class="top-bar"><img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/7dc9f236-26ac-40bc-8394-c6c9eea7dd00/public" alt="Logo" class="logo"></div>
+    <div class="top-bar"><img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/95290db7-2137-4011-2563-df896fe70400/public" alt="Logo" class="logo"></div>
     <div class="content">
         <h1>Boomlab is tijdelijk niet bereikbaar</h1>
         <p>Onze website is tijdelijk niet bereikbaar vanwege onderhoud. We verwachten in de loop van de avond weer online te zijn.
@@ -61,7 +61,7 @@ Vragen of een bestelling plaatsen?</p>
         <a href="mailto:customer-service@boomlab.nl" class="btn">Neem contact met ons op</a>
     </div>
     <footer>
-        <img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/85010862-40ac-4d3d-b555-83c6ca447600/public" alt="Footer">
+        <img src="https://imagedelivery.net/7_WdPZLJJExIQ95jdZAtNw/d9ae6528-628a-4c36-86ec-e7e881512300/public" alt="Footer">
     </footer>
 </body>
 </html>`;
